@@ -22,5 +22,5 @@ The primary focus of this project was to demonstrate how machine learning algori
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
 * Model Building (Logisctic Regression, Decision Tree Classifier, Gradient Boosting Classifier, XGBoost Classifier)
-* Model Evaluation using metrics like Accuracy, confusion matrix, Recall, F1- Score
+* Model Evaluation using metrics like Accuracy, Precision, Confusion Matrix, Recall, F1- Score
 * Visualizations
