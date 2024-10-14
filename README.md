@@ -8,4 +8,5 @@ Explore these projects to discover the methodologies, code, and analysis that dr
 ![](https://github.com/MithamoMorgan/MY_PORTFOLIO_/blob/master/Diabetes.jpg)
 
 **Repository:** [Diabetes Prediction](https://github.com/MithamoMorgan/Diabetes_Prediction)
+
 **Tech Stack:** Pytho, Scikit-Learn, Pandas, Matplotlib, Seaborn
