@@ -13,7 +13,7 @@ Explore these projects to discover the methodologies, code, and analysis that dr
 
 ### Project Overview
 
-This project aims to predict the likelihood of a person developing diabetes based on various medical parameters. It uses historical data to train a machine learning model that can predict diabetes based on factors like age, glucose levels, BMI & others.
+This project aims to predict the likelihood of a person developing diabetes based on various medical parameters. It uses historical data to train a machine learning model that can predict diabetes based on factors like age, glucose levels, BMI, HbA1c & others.
 
 The primary focus of this project was to demonstrate how machine learning algorithms (specifically XGBoost) can be used to make predictions in healthcare applications.
 
@@ -21,6 +21,6 @@ The primary focus of this project was to demonstrate how machine learning algori
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
-* Model Building ()
+* Model Building (Logisctic Regression, Decision Tree Classifier, Gradient Boosting Classifier, XGBoost Classifier)
 * Model Evaluation using metrics like Accuracy, confusion matrix, Recall, F1- Score
 * Visualizations
