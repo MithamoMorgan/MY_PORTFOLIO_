@@ -9,11 +9,11 @@ Explore these projects to discover the methodologies, code, and analysis that dr
 
 **Repository:** [Diabetes Prediction](https://github.com/MithamoMorgan/Diabetes_Prediction)
 
-**Tech Stack:** Pytho, Scikit-Learn, Pandas, Matplotlib, Seaborn
+**Tech Stack:** Python, Streamlit, Scikit-Learn, Pandas, Matplotlib, Seaborn
 
 ### Project Overview
 
-This project aims to predict the likelihood of a person developing diabetes based on various medical parameters. It uses historical data to train a machine learning model that can predict diabetes based on factors like age, glucose levels, BMI, HbA1c & others.
+This project aims to predict the likelihood of a person developing diabetes based on various medical parameters using a **streamlit app**. It uses historical data to train a machine learning model that can predict diabetes based on factors like age, glucose levels, BMI, HbA1c & others.
 
 The primary focus of this project was to demonstrate how machine learning algorithms (specifically XGBoost) can be used to make predictions in healthcare applications.
 
