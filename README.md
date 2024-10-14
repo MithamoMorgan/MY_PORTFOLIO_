@@ -5,3 +5,4 @@ This repository showcases some of my best projects in data analysis and data sci
 Explore these projects to discover the methodologies, code, and analysis that drive actionable insights.
 
 ## Diabetes Prediction Project
+![](https://github.com/MithamoMorgan/MY_PORTFOLIO_/blob/master/Diabetes.jpg)
