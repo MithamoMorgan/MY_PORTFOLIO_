@@ -19,8 +19,10 @@ The primary focus of this project was to demonstrate how machine learning algori
 
 ### Key Features
 
-* Data cleaning and preprocessing
-* Exploratory Data Analysis (EDA)
-* Model Building (Logisctic Regression, Decision Tree Classifier, Gradient Boosting Classifier, XGBoost Classifier)
-* Model Evaluation using metrics like Accuracy, Precision, Confusion Matrix, Recall, F1- Score
+* **Data cleaning and preprocessing**
+* **Exploratory Data Analysis (EDA)**
+* **Model Building** (Logisctic Regression, Decision Tree Classifier, Gradient Boosting Classifier, XGBoost Classifier)
+* **Model Evaluation:** using metrics like Accuracy, Precision, Confusion Matrix, Recall, F1- Score
+* **User Input Format:** User can input their health data (e.g., age, glucose level, BMI) via a user friendly streamlit form.
+* **Real-time Prediction:** This app predicts wheather a person is at risk of diabetes based on input data using a macchine learning model.
 * Visualizations
