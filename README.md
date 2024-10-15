@@ -81,4 +81,8 @@ I gained insights into metrics beyond accuracy, such as precision, recall, F1-sc
 
 ### Screenshots
 
+![](https://github.com/MithamoMorgan/MY_PORTFOLIO_/blob/master/diabets_app.png)
+
+![](https://github.com/MithamoMorgan/MY_PORTFOLIO_/blob/master/non_diabetic.jpg)
+
 
