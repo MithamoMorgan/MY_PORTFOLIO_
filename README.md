@@ -41,27 +41,43 @@ I learned how to perform data cleaning and preprocessing techniques like imputat
 
 ### 2. Feature Selection and Engineering:
 
-**Challenge:** Deciding which features are most relevant for the prediction of diabetes and how to effectively use them.
+**Challenge:**
 
-**Learning:** I developed skills in feature selection, understanding the impact of different variables on model performance, and creating new features that may help improve accuracy.
+Deciding which features are most relevant for the prediction of diabetes and how to effectively use them.
+
+**Learning:**
+
+I developed skills in feature selection, understanding the impact of different variables on model performance, and creating new features that may help improve accuracy.
 
 ### 3. Model Selection and Hyperparameter Tuning:
 
-**Challenge:** Choosing the right model (e.g., logistic regression, decision trees, random forests, or XGBoost) and tuning hyperparameters for optimal performance.
+**Challenge:**
 
-**Learning:** I gained experience in evaluating different models, learning how to use cross-validation and grid search/random search to find the best hyperparameters.
+Choosing the right model (e.g., logistic regression, decision trees, random forests, or XGBoost) and tuning hyperparameters for optimal performance.
+
+**Learning:**
+
+I gained experience in evaluating different models, learning how to use cross-validation and grid search/random search to find the best hyperparameters.
 
 ### 4. Dealing with Overfitting or Underfitting:
 
-**Challenge:** Striking the right balance between model complexity and generalization, where models might either memorize the training data (overfitting) or perform poorly (underfitting).
+**Challenge:**
 
-**Learning:** I learned about techniques to mitigate overfitting (e.g., regularization) and methods for improving model performance on unseen data (e.g., cross-validation, ensemble methods).
+Striking the right balance between model complexity and generalization, where models might either memorize the training data (overfitting) or perform poorly (underfitting).
+
+**Learning:**
+
+I learned about techniques to mitigate overfitting (e.g., regularization) and methods for improving model performance on unseen data (e.g., cross-validation, ensemble methods).
 
 ### 5. Model Evaluation and Metrics:
 
-**Challenge:** Evaluating the model's performance and choosing the appropriate metrics for an imbalanced classification problem (e.g., diabetes prediction often involves an imbalanced dataset where positive cases are fewer than negatives).
+**Challenge:**
 
-**Learning:** I gained insights into metrics beyond accuracy, such as precision, recall, F1-score, and confusion matrices, to better understand model performance in predicting diabetes cases.
+Evaluating the model's performance and choosing the appropriate metrics for an imbalanced classification problem (e.g., diabetes prediction often involves an imbalanced dataset where positive cases are fewer than negatives).
+
+**Learning:**
+
+I gained insights into metrics beyond accuracy, such as precision, recall, F1-score, and confusion matrices, to better understand model performance in predicting diabetes cases.
 
 ### Screenshots
 
