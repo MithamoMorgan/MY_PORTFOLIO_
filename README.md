@@ -31,9 +31,13 @@ The primary focus of this project was to demonstrate how machine learning algori
 
 ### 1. Data Quality and Preprocessing Challenges:
 
-    **Challenge:** Handling missing or incomplete data, ensuring the dataset was balanced, or dealing with noise in the data.
+**Challenge:**
 
-    **Learning:** I learned how to perform data cleaning and preprocessing techniques like imputation, normalization, and encoding categorical variables. I also learned how to handle class imbalance using techniques such as oversampling, undersampling, and generating synthetic data (e.g., SMOTE).
+Handling missing or incomplete data, ensuring the dataset was balanced, or dealing with noise in the data.
+
+**Learning:**
+
+I learned how to perform data cleaning and preprocessing techniques like imputation, normalization, and encoding categorical variables. I also learned how to handle class imbalance using techniques such as oversampling, undersampling, and generating synthetic data (e.g., SMOTE).
 
 ### 2. Feature Selection and Engineering:
 
