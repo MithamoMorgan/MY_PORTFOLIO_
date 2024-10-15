@@ -58,3 +58,7 @@ The primary focus of this project was to demonstrate how machine learning algori
 **Challenge:** Evaluating the model's performance and choosing the appropriate metrics for an imbalanced classification problem (e.g., diabetes prediction often involves an imbalanced dataset where positive cases are fewer than negatives).
 
 **Learning:** I gained insights into metrics beyond accuracy, such as precision, recall, F1-score, and confusion matrices, to better understand model performance in predicting diabetes cases.
+
+### Screenshots
+
+
