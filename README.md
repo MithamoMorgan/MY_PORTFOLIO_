@@ -33,7 +33,7 @@ The primary focus of this project was to demonstrate how machine learning algori
 
 **Challenge:**
 
-Handling missing or incomplete data, ensuring the dataset was balanced, or dealing with noise in the data.
+Handling missing and incomplete data, ensuring the dataset was balanced, and dealing with noise in the data.
 
 **Learning:**
 
