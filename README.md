@@ -38,13 +38,23 @@ The primary focus of this project was to demonstrate how machine learning algori
 #### 2. Feature Selection and Engineering:
 
 **Challenge:** Deciding which features are most relevant for the prediction of diabetes and how to effectively use them.
-Learning: You developed skills in feature selection, understanding the impact of different variables on model performance, and creating new features that may help improve accuracy.
-3. Model Selection and Hyperparameter Tuning:
-Challenge: Choosing the right model (e.g., logistic regression, decision trees, random forests, or neural networks) and tuning hyperparameters for optimal performance.
-Learning: You gained experience in evaluating different models, learning how to use cross-validation and grid search/random search to find the best hyperparameters.
-4. Dealing with Overfitting or Underfitting:
-Challenge: Striking the right balance between model complexity and generalization, where models might either memorize the training data (overfitting) or perform poorly (underfitting).
-Learning: You learned about techniques to mitigate overfitting (e.g., regularization, dropout in neural networks) and methods for improving model performance on unseen data (e.g., cross-validation, ensemble methods).
-5. Model Evaluation and Metrics:
-Challenge: Evaluating the model's performance and choosing the appropriate metrics for an imbalanced classification problem (e.g., diabetes prediction often involves an imbalanced dataset where positive cases are fewer than negatives).
-Learning: You gained insights into metrics beyond accuracy, such as precision, recall, F1-score, ROC-AUC, and confusion matrices, to better understand model performance in predicting diabetes cases.
+
+**Learning:** I developed skills in feature selection, understanding the impact of different variables on model performance, and creating new features that may help improve accuracy.
+
+#### 3. Model Selection and Hyperparameter Tuning:
+
+**Challenge:** Choosing the right model (e.g., logistic regression, decision trees, random forests, or XGBoost) and tuning hyperparameters for optimal performance.
+
+**Learning:** I gained experience in evaluating different models, learning how to use cross-validation and grid search/random search to find the best hyperparameters.
+
+#### 4. Dealing with Overfitting or Underfitting:
+
+**Challenge:** Striking the right balance between model complexity and generalization, where models might either memorize the training data (overfitting) or perform poorly (underfitting).
+
+**Learning:** I learned about techniques to mitigate overfitting (e.g., regularization) and methods for improving model performance on unseen data (e.g., cross-validation, ensemble methods).
+
+#### 5. Model Evaluation and Metrics:
+
+**Challenge:** Evaluating the model's performance and choosing the appropriate metrics for an imbalanced classification problem (e.g., diabetes prediction often involves an imbalanced dataset where positive cases are fewer than negatives).
+
+**Learning:** I gained insights into metrics beyond accuracy, such as precision, recall, F1-score, and confusion matrices, to better understand model performance in predicting diabetes cases.
