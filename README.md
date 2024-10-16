@@ -79,7 +79,7 @@ Evaluating the model's performance and choosing the appropriate metrics for an i
 
 I gained insights into metrics beyond accuracy, such as precision, recall, F1-score, and confusion matrices, to better understand model performance in predicting diabetes cases.
 
-### Screenshots
+### Steamlit App Screenshots
 
 ![](https://github.com/MithamoMorgan/MY_PORTFOLIO_/blob/master/diabets_app.png)
 
